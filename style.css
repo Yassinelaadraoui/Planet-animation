@@ -1,0 +1,32 @@
+div {
+    border-radius:50%;
+    border:2px solid #000;
+    position:fixed;
+}
+#center {
+    width:150px;
+    height:150px;
+    left:100px;
+    top:100px;
+    background-image: url('https://userscontent2.emaze.com/images/07a64560-03f7-4eb3-87aa-b40ce9d4243c/9a33a20b5d0e8d2a8f103ae2735d8e6a.png');
+    background-position: center;
+    background-size: cover;
+
+}
+#sat0, #sat1, #sat2, #sat3, #sat4 {
+    width:50px;
+    height:50px;
+
+  }
+#sat1{
+  background-image: url('http://space-facts.com/wp-content/uploads/jupiter-transparent.png');
+  background-position: center;
+
+
+}
+#sat3{
+  background-image: url('https://cdn.pixabay.com/photo/2016/06/14/20/38/planet-earth-1457453_960_720.png');
+  background-position: center;
+
+
+}
